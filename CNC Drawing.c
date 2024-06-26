@@ -16,6 +16,8 @@ Functions
 -------------------------*/
 void circle;
 
+int i;
+int j;
 
 int main(void){
 
