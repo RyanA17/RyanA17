@@ -23,7 +23,7 @@ int main(void){
 
 int matrix[i][j];
 printf("Pizza\n");
-
+printf("University of New Hampshire\n");
 
 return 0;
 }
