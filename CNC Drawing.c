@@ -14,7 +14,7 @@
 /*-------------------------
 Functions
 -------------------------*/
-void circle;
+//void circle;
 
 int i;
 int j;
